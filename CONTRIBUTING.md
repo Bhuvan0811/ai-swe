@@ -1,0 +1,1 @@
+To report bugs and contribute, open an issue tagging @issue-resolving-ai-swe-bot, review the proposed plan, and reply with `/agent-approve` to finalise changes and create pull requests.
