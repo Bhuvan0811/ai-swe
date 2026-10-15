@@ -17,3 +17,6 @@ This is a simple command-line calculator application.
 
 ## Requirements
 - Python 3.x
+
+## Last Updated
+2026-10-15
